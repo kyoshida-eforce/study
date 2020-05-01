@@ -1,0 +1,6 @@
+src/nohup.out
+__pycache__/
+credentials
+config
+src/db.sqlite3
+src/factories/migrations

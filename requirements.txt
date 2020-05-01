@@ -1,0 +1,8 @@
+django
+paho-mqtt
+channels
+pillow
+boto3
+channels_redis
+websocket-client
+pynvim
